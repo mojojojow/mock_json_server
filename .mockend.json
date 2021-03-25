@@ -1,0 +1,204 @@
+{
+  "organization": [
+    {
+      "orgId": 1,
+      "name": "Association Example",
+      "type": "association",
+      "description": "association description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "11110",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Jhon",
+        "LastName": "Wick",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "jhon.wock@nexus.io"
+      },
+      "path": "1"
+    },
+    {
+      "orgId": 2,
+      "name": "Region A Example",
+      "type": "region",
+      "description": "Region A description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "11110",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Jony",
+        "LastName": "English",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "jony.english@nexus.io"
+      },
+      "path": "1.2"
+    },
+    {
+      "orgId": 3,
+      "name": "Coop E Example",
+      "type": "coop",
+      "description": "Coop E description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta barat",
+      "postalCode": "11130",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Scarlet",
+        "LastName": "Jhonson",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "scarlet.jhonson@nexus.io"
+      },
+      "path": "1.3"
+    },
+    {
+      "orgId": 4,
+      "name": "Region B Example",
+      "type": "region",
+      "description": "Region B description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta timur",
+      "postalCode": "12330",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Ben",
+        "LastName": "Ten",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "ben.ten@nexus.io"
+      },
+      "path": "1.4"
+    },
+    {
+      "orgId": 5,
+      "name": "Region C Example",
+      "type": "region",
+      "description": "Region C description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "11120",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Charlie",
+        "LastName": "Angel",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "charlie.Angels@nexus.io"
+      },
+      "path": "1.2.5"
+    },
+    {
+      "orgId": 6,
+      "name": "Region D Example",
+      "type": "region",
+      "description": "Region D description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "11130",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Cameroon",
+        "LastName": "Diaz",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "c.diaz@nexus.io"
+      },
+      "path": "1.2.6"
+    },
+    {
+      "orgId": 7,
+      "name": "Coop A Example",
+      "type": "coop",
+      "description": "Coop A description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "11130",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Dodge",
+        "LastName": "Charger",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "american.muscle@nexus.io"
+      },
+      "path": "1.2.5.7"
+    },
+    {
+      "orgId": 8,
+      "name": "Coop B Example",
+      "type": "coop",
+      "description": "Coop B description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "11230",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Nissan",
+        "LastName": "Skyline",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "jdm.ok@nexus.io"
+      },
+      "path": "1.2.6.8"
+    },
+    {
+      "orgId": 9,
+      "name": "Coop C Example",
+      "type": "coop",
+      "description": "Coop C description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "11530",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Khalil",
+        "LastName": "Gibran",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "poems.now@nexus.io"
+      },
+      "path": "1.3.9"
+    },
+    {
+      "orgId": 10,
+      "name": "Coop D Example",
+      "type": "coop",
+      "description": "Coop D description",
+      "country": "indonesia",
+      "city": "jakarta",
+      "region": "jakarta pusat",
+      "postalCode": "13530",
+      "street": "some street on jakarta",
+      "contactDetails": {
+        "firstName": "Jessica",
+        "LastName": "Rabbit",
+        "phoneNumber": "+6212345678910",
+        "mobileNumber": "+628123456789",
+        "whatsappNumber": "+628123456789",
+        "email": "unch.unch@nexus.io"
+      },
+      "path": "1.3.10"
+    }
+  ]
+}
