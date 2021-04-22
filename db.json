@@ -20,7 +20,7 @@
     {
       "id": 1,
       "name": "Association Example",
-      "type": "association",
+      "type": 1,
       "description": "association description",
       "country": "indonesia",
       "city": "jakarta",
@@ -40,7 +40,7 @@
     {
       "id": 2,
       "name": "Region A Example",
-      "type": "region",
+      "type": 2,
       "description": "Region A description",
       "country": "indonesia",
       "city": "jakarta",
@@ -60,7 +60,7 @@
     {
       "id": 3,
       "name": "Coop E Example",
-      "type": "coop",
+      "type": 3,
       "description": "Coop E description",
       "country": "indonesia",
       "city": "jakarta",
@@ -80,7 +80,7 @@
     {
       "id": 4,
       "name": "Region B Example",
-      "type": "region",
+      "type": 2,
       "description": "Region B description",
       "country": "indonesia",
       "city": "jakarta",
@@ -100,7 +100,7 @@
     {
       "id": 5,
       "name": "Region C Example",
-      "type": "region",
+      "type": 2,
       "description": "Region C description",
       "country": "indonesia",
       "city": "jakarta",
@@ -120,7 +120,7 @@
     {
       "id": 6,
       "name": "Region D Example",
-      "type": "region",
+      "type": 2,
       "description": "Region D description",
       "country": "indonesia",
       "city": "jakarta",
@@ -140,7 +140,7 @@
     {
       "id": 7,
       "name": "Coop A Example",
-      "type": "coop",
+      "type": 3,
       "description": "Coop A description",
       "country": "indonesia",
       "city": "jakarta",
@@ -160,7 +160,7 @@
     {
       "id": 8,
       "name": "Coop B Example",
-      "type": "coop",
+      "type": 3,
       "description": "Coop B description",
       "country": "indonesia",
       "city": "jakarta",
@@ -180,7 +180,7 @@
     {
       "id": 9,
       "name": "Coop C Example",
-      "type": "coop",
+      "type": 3,
       "description": "Coop C description",
       "country": "indonesia",
       "city": "jakarta",
@@ -200,7 +200,7 @@
     {
       "id": 10,
       "name": "Coop D Example",
-      "type": "coop",
+      "type": 3,
       "description": "Coop D description",
       "country": "indonesia",
       "city": "jakarta",
