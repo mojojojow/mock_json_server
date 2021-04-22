@@ -3,17 +3,50 @@
     {
       "id":1,
       "name":"association",
-      "parentId":0
+      "parentId":0,
+      "unit": 1
     },
     {
       "id":2,
       "name":"region",
-      "parentId":1
+      "parentId":1,
+      "unit": 4
     },
     {
       "id":3,
       "name":"coop",
-      "parentId":2
+      "parentId":2,
+      "unit": 5
+    },
+    {
+      "id":4,
+      "name":"desa",
+      "parentId":3,
+      "unit": 0
+    },
+    {
+      "id":5,
+      "name":"kecamatan",
+      "parentId":4,
+      "unit": 0
+    },
+    {
+      "id":6,
+      "name":"kelurahan",
+      "parentId":5,
+      "unit": 0
+    },
+    {
+      "id":7,
+      "name":"rt",
+      "parentId":6,
+      "unit": 0
+    },
+    {
+      "id":8,
+      "name":"rw",
+      "parentId":7,
+      "unit": 0
     }
   ],
   "organization": [
