@@ -1,4 +1,21 @@
 {
+  "hierarchy": [
+    {
+      "id":1,
+      "name":"association",
+      "parentId":0
+    },
+    {
+      "id":2,
+      "name":"region",
+      "parentId":1
+    },
+    {
+      "id":3,
+      "name":"coop",
+      "parentId":2
+    }
+  ],
   "organization": [
     {
       "id": 1,
